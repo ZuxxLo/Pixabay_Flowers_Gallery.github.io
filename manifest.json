@@ -1,6 +1,6 @@
 {
-    "name": "tests",
-    "short_name": "tests",
+    "name": "filehive",
+    "short_name": "filehive",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
